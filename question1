@@ -1,1 +1,1 @@
-git clone copies a repository. It creates a folder on your local directory, performs a git init and git pull. It then checks out the latest version
+Explain what git clone does, in your own words
