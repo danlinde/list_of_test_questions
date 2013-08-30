@@ -1,1 +1,1 @@
-An upstream remote allows you to pull only. You would use it if you fork a repository to make sure you have the latest changes from the original repository. YOu could then push your changes to your forked repository.
+Explain what the "upstream" remote is usually used for, in your own words
